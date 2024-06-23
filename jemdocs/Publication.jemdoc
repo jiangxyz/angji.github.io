@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{Publication.html}
+= Publications
+
+== Journal publications
+. *3-D High-Resolution Imaging and Array Calibration of Ground-Based Millimeter-Wave MIMO Radar* \n
+G. Xu, Y. Chen, *A. Ji*, B. Zhang, C. Yu, W. Hong, /IEEE Transactions on Microwave Theory and Techniques/, 2024 ([./files/3-D_High-Resolution_Imaging_and_Array_Calibration_of_Ground-Based_Millimeter-Wave_MIMO_Radar.pdf PDF])
+
+== Conference proceedings
+. *3D Holographic Imaging of Multi-Circular SAR Via Atomic Norm Minimization* \n
+*A. Ji*, G. Xu, H. Wei, J. Sheng, W. Hong, 2023 4th China International SAR Symposium (CISS), 2023 ([./files/3D_Holographic_Imaging_of_Multi-Circular_SAR_Via_Atomic_Norm_Minimization.pdf PDF])
+
+== Journal publications (Chinese) 
+. *阵列 SAR 高分辨三维成像与点云聚类研究* \n
+*姬昂*, 裴昊, 张邦杰, 徐刚, 电子与信息学报(45周年特刊)，2024 ([./files/JEIT231223.pdf PDF])
